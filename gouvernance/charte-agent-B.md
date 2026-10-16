@@ -1,4 +1,4 @@
-# Charte de l'agent de code — binôme B, groupe 1
+# Charte de l'agent de code — binôme B (Safyah, Julie), groupe 1
 
 Cette charte part de l'agent que nous faisons tourner sur Kaggle. Elle décrit à quelles conditions nous accepterions de le brancher sur le dépôt de NidBuyer.
 
